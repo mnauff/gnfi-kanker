@@ -95,6 +95,82 @@ export default function Home() {
             );
           })}
         </div>
+        <Paragraph>
+          Pembedahan termasuk pengobatan tertua dan selalu menjadi rekomendasi
+          utama para dokter selama kanker yang diderita pasien masih bisa
+          diangkat. Hampir seluruh jenis kanker stadium awal (1—11) dapat
+          diobati dengan pembedahan saja atau pembedahan plus radioterapi. Jenis
+          pembedahan pun bervariasi. Dokter mungkin hanya perlu mengangkat
+          benjolan saja atau bisa juga seluruh organ, misalnya: kanker payudara,
+          rahim, dan prostat.
+        </Paragraph>
+        <Paragraph>
+          Tindakan radioterapi dilakukan dengan menggunakan sinar laser
+          berkekuatan tinggi untuk membakar sel-sel kanker supaya mati.
+          Radioterapi bersifat lokal atau setempat. Jenis pengobatan ini
+          biasanya dilakukan sebagai terapi utama atau paliatif, hanya
+          mengurangi gejala.
+        </Paragraph>
+        <Paragraph>
+          Radioterapi biasa dilakukan kepada penderita kanker stadium lanjut
+          yang sudah tidak dapat dioperasi untuk meringankan gejala, seperti
+          mengurangi rasa sakit, menghentikan pendarahan, atau mengurangi
+          kerusakan struktur saraf di sekitar tumor. Untuk tujuan ini,
+          radioterapi diberikan dalam jangka pendek, misalnya sehari atau satu
+          sampai dua minggu.
+        </Paragraph>
+        <Paragraph>
+          Di samping itu, radioterapi juga kerap digunakan sebagai terapi utama
+          untuk mengecilkan tumor, lalu dilanjutkan dengan pembedahan. Pada
+          kasus ini, radioterapi diberikan dengan interval lebih panjang,
+          misalnya jeda 4—6 minggu. Jarak antarpengobatan yang cukup lama
+          bertujuan untuk memberikan waktu sel-sel normal untuk memperbaiki
+          dirinya.
+        </Paragraph>
+        <Paragraph>
+          Setiap sesi radioterapi biasanya berlangsung antara 1—2 menit. Pasien
+          tidak akan merasakan sensasi apa pun saat mesin laser bekerja karena
+          teknologi zaman sekarang sudah canggih dan aplikasi yang ada juga
+          bermacam ragam.
+        </Paragraph>
+        <Paragraph>
+          Praktik kemoterapi melibatkan penggunaan zat kimia atau obat-obatan
+          untuk meracuni sel kanker. Ada tiga tujuan penerapan kemoterapi.
+          Pertama, sebagai terapi utama untuk memberantas sel-sel kanker. Kedua,
+          sebagai terapi ajuvan (tambahan) untuk memastikan kanker sudah bersih
+          dan tidak kembali. Tindakan ini biasanya diberikan kepada pasien yang
+          baru menjalani pengangkatan tumor melalui pembedahan atau radioterapi.
+        </Paragraph>
+        <Paragraph>
+          Ketiga, kemoterapi sebagai terapi paliatif. Tindakan ini bertujuan
+          untuk mengurangi gejala penderita kanker stadium lanjut (48), ketika
+          kanker sudah menyebar ke organ lain. Saat ini, ada lebih dari 50
+          obat-obatan kemoterapi yang dapat diberikan melalui infus intravena
+          atau tablet oral. Kemoterapi intravena diberikan menggunakan sistem
+          siklus dengan interval 3—4 minggu dalam periode 4—6 bulan.
+        </Paragraph>
+        <Paragraph>
+          Terapi hormon biasa digunakan untuk mengobati kanker yang dipicu oleh
+          kelebihan hormon, seperti kanker payudara atau kanker prostat.
+        </Paragraph>
+        <Paragraph>
+          Terapi bertarget menggunakan obat-obatan untuk menghambat protein atau
+          enzim tertentu yang berperan penting dalam perkembangbiakan dan
+          penyebaran tumor. Efek samping terapi ini lebih ringan daripada
+          kemoterapi dan tidak merusak sel sehat lain di dalam tubuh.
+        </Paragraph>
+        <Paragraph>
+          Target terapi dapat diberikan melalui infus intravena atau melalui
+          tablet dan pil. Contoh obat-obatan yang biasa diberikan dokter kepada
+          penderita kanker saat terapi bertarget antara lain: trastuzumab
+          (Herceptin) dan erlotinib (Tykerb) untuk kanker payudara serta
+          sorafenib (Nexavar) untuk kanker hati atau ginjal.
+        </Paragraph>
+        <Paragraph>
+          Di antara pengobatan kanker yang telah disebutkan, biaya terapi
+          bertarget mungkin termasuk paling mahal, sekitar 5.000 dolar AS per
+          sesi. Selain itu, waktu pengobatan juga tidak dapat dipastikan.
+        </Paragraph>
       </section>
     </main>
   );
